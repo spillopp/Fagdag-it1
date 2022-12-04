@@ -1,0 +1,27 @@
+.beholder {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+body {
+    background-color: #496ddb;
+}
+.rutenett {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 100%;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.rutenett img {
+    width: 150px;
+    height: 150px;
+}
+#reset {
+    border: 1px solid black;
+    cursor: pointer;   
+}
+p {
+    font-size: 2em;
+}
